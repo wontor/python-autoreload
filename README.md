@@ -1,4 +1,4 @@
-python-autoreload
+python3-autoreload
 =================
 
 A deamon-mod auto-reloader which can reload module changes without restarting the service manually.
